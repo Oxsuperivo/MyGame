@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyGame</string>
+    <string name="txt_mainMenu_nameGame">Asteroid Attack!</string>
+    <string name="txt_mainMenu_newGame">Новая игра</string>
+    <string name="txt_mainMenu_settings">Настройки</string>
+    <string name="txt_mainMenu_results">Результаты</string>
+    <string name="txt_mainMenu_exit">Выход</string>
+
+    <string name="txt_gameScene_stateReady_ready">Вы готовы?</string>
+
+    <string name="txt_hud_passedDistance">Пройдено</string>
+    <string name="txt_hud_currentSpeedPlayer">Скорость</string>
+    <string name="txt_hud_currentShieldPlayer">Защита</string>
+    <string name="txt_gameScene_stateGameOver_gameOver">Конец игры</string>
+    <string name="txt_gameScene_stateGameOver_restart">Начать заново</string>
+    <string name="txt_gameScene_stateGameOver_exit">Выход</string>
+    <string name="txt_gameScene_stateGameOver_distance">Пройдено</string>
+
+    <string name="txt_top_distance">Лучшие результаты</string>
+</resources>
